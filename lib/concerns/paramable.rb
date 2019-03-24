@@ -1,2 +1,6 @@
 module Paramable 
-  module InstanceMetho
+  module InstanceMethods 
+    
+    
+  end 
+  e
