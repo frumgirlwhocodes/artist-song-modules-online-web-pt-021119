@@ -11,7 +11,7 @@ extend Memorable::ClassMethods
   @@artists = []
 
   def initialize
-    @@artists << self
+    super 
     @songs = []
   end
 
